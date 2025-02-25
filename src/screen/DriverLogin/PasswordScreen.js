@@ -50,7 +50,7 @@ function PasswordScreen({ navigation }) {
                     </Text>
 
                     <TouchableOpacity style={styles.continueButton}
-                        onPress={() => navigation.navigate('NotRegister')}>
+                        onPress={() => navigation.navigate('MapScreen')}>
                         <Text style={styles.continueButtonText}>Continue</Text>
                     </TouchableOpacity>
                 </View>
