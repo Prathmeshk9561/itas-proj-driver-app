@@ -86,10 +86,10 @@ import OutStationScreen from "./src/screen/Generatebooking/OutStationScreen";
 import MessageScreen from "./src/screen/Drawer/MessageScreen";
 import BookingScreen from "./src/screen/Drawer/BookingScreen";
 import TripDetailsScreen from "./src/screen/Drawer/TripDetailsScreen";
+import AccountScreen from "./src/screen/Drawer/AccountScreen";
 
 // Dummy Screens for Drawer Items
 const EarningsScreen = () => <View><Text>Earnings</Text></View>;
-const AccountScreen = () => <View><Text>Account</Text></View>;
 const HelpScreen = () => <View><Text>Help & Feedback</Text></View>;
 
 // Create Navigators
